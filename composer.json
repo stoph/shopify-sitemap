@@ -1,0 +1,8 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "ext-json": "*",
+        "ext-simplexml": "*",
+        "psr/log": "^1.1"
+    }
+} 
